@@ -18,23 +18,16 @@ Notes
 Author
 
 📂 Repository Structure
-├── Assignments/
-│   ├── Assignment1/
-│   │   └── solution.py
-│   ├── Assignment2/
-│   │   └── solution.py
-│   └── ...
-├── Classwork/
-│   ├── Week1/
-│   │   └── exercises.py
-│   ├── Week2/
-│   │   └── exercises.py
-│   └── ...
-├── Projects/
-│   └── project_name/
-│       └── main.py
-├── README.md
-
+├── week1assignment.py         # Week 1 assignment solution
+├── week2assignment.py         # Week 2 assignment solution
+├── Week3assignment.py         # Week 3 assignment solution
+├── week4assignment.py         # Week 4 assignment solution
+├── errorhandling.py           # Python exercise on error handling
+├── week4class.py              # Week 4 classwork solution
+├── week4class.pdf             # Supporting classwork notes
+├── week4assgnment.pdf         # Assignment submission (PDF format)
+├── 2.jpg                      # Related file/resource
+├── README.md                  # Documentation (this file)
 
 Assignments/ → Contains solutions to PLP Academy assignments.
 
