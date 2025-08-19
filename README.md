@@ -50,7 +50,7 @@ Install Python 3.x
 Install Git
 
 Clone the Repository
-git clone https://github.com/your-username/plp-python-classwork.git
+git clone https://github.com/ramnoa/PLP-PYTHON
 cd plp-python-classwork
 
 ▶️ Running the Code
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 Programming Language: Python
 
-IDE/Editors: VS Code, Jupyter Notebook
+IDE/Editors: VS Code
 
 Version Control: Git & GitHub
 
