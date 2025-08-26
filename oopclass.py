@@ -11,7 +11,7 @@
 #attributes: name, age, student_id, subject, teacher_id, course_name, course_code
 #relationships: A Course has one Teacher and multiple Students
 #Example code:
-class Student:
+class Student: 
     def __init__(self, name, age, student_id):
         self.name = name
         self.age = age
