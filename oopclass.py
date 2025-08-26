@@ -5,6 +5,12 @@
 #4.Polymorphism to use a single interface for different data types
 #5.Abstraction to hide complex implementation details
 #school management system
+#three classes: Student, Teacher, Course
+#objects: student1, student2, teacher1, course1
+#methods: display_info, add_student
+#attributes: name, age, student_id, subject, teacher_id, course_name, course_code
+#relationships: A Course has one Teacher and multiple Students
+#Example code:
 class Student:
     def __init__(self, name, age, student_id):
         self.name = name
