@@ -41,4 +41,6 @@ class Course:
         student_names = ', '.join([student.name for student in self.students])
         return (f"Course Name: {self.course_name}, Code: {self.course_code}, "
                 f"Teacher: {self.teacher.name}, Students: [{student_names}]")
-    
+#POLYMORPHISM
+def print_info(entity):
+    print(entity.display_info())
